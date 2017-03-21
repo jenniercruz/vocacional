@@ -1,0 +1,36 @@
+{
+  "name": "jenniercruz",
+  "version": "1.0.0",
+  "description": "directorio de carreras y universidades",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jenniercruz/vocacional.git"
+  },
+  "keywords": [
+    "directorio",
+    "carreras",
+    "universidades",
+    "latinoamerica"
+  ],
+  "author": "jenniercruz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jenniercruz/vocacional/issues"
+  },
+  "homepage": "https://github.com/jenniercruz/vocacional#readme",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.24.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-iife": "^0.3.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.4.1",
+    "gulp-uglify": "^2.1.1",
+    "pump": "^1.0.2"
+  }
+}

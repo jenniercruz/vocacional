@@ -1,0 +1,8 @@
+/client/node_modules
+/server/data
+/server/mongod
+/server/.yo-rc.json
+/server/express/node_modules
+/server/yoexpress/node_modules
+/server/yoexpressmvc/node_modules
+README.md

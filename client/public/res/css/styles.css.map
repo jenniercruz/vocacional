@@ -1,0 +1,1 @@
+{"version":3,"file":"styles.css","sources":["styles.scss","framework/_colors.scss"],"sourcesContent":["@import 'framework/_colors.scss'","/*\n* COLORS\n*/\n\n$white: #fff;\n$gray: #888;\n$black: #111;\n\n\n$white-secondary: #fafafa;\n$gray-secondary: #ccc;\n$black-secondary: #444;"],"names":[],"mappings":""}
